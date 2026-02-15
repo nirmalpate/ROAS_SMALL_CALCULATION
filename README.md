@@ -1,13 +1,13 @@
  
 ---
 
-# 🚗 Drivalia Car Marketing: Performance & Profitability Analysis
+# 🚗 Europe Car Marketing: Performance & Profitability Analysis
 
 This repository contains a Python-based framework for analyzing **YoY Revenue Growth**, **ROAS (Return on Ad Spend)** efficiency, and **A/B Test** performance specifically for the car subscription and rental market (CarCloud).
 
 ## 📊 Project Overview
 
-The goal of this analysis is to track how Drivalia can scale revenue by **300% YoY** while maintaining a strict **25% Net Profit Margin**.
+The goal of this analysis is to track how Europe can scale revenue by **300% YoY** while maintaining a strict **25% Net Profit Margin**.
 
 ## 🛠 Features
 
