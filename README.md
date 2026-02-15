@@ -40,7 +40,7 @@ Run the analysis script to see the current performance metrics:
 
 ```python
 # Example command
-python drivalia_analysis.py
+python europe_analysis.py
 
 ```
 
